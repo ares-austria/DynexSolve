@@ -2,6 +2,10 @@
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/search?q=%24DNX&amp;src=ctag&amp;ref_src=twsrc%5Etfw">$DNX</a> Dynex is a SCAM! <br>Short story: Watch the intro movie of Dynex here:<a href="https://t.co/EKFyj2WPkY">https://t.co/EKFyj2WPkY</a> Now watch this intro movie, a simple copy paste of Dynex from Deep Q Ai : <a href="https://t.co/33gYQLoPmz">https://t.co/33gYQLoPmz</a><br>Full context on the Discord group: Dynex behind the scenes: <a href="https://t.co/fY8NGgto8s">https://t.co/fY8NGgto8s</a></p>&mdash; Scam Alert⚠️REPORT SCAM, FRAUD, IMPERSONATORS (@ScamPatrol12) <a href="https://twitter.com/ScamPatrol12/status/1626088064698441728?ref_src=twsrc%5Etfw">February 16, 2023</a></blockquote>
 
+![Dynex Daniel Mattes Blake256](https://i.imgur.com/LYRZYk7.gif)
+
+![Dynex Daniel Mattes Monero slow-hash](https://i.imgur.com/zUSN0KO.gif)
+
 # DynexSolve
 Open Source code for DynexSolve 2.2.5 (reference implementation miner) with redacted Stratum + Mallob communication handlers for network security purposes. Currently supporting CUDA. Please note that this miner is intended mostly for educational purposes. If you want to mine DNX, we recommend using one of the commercial miners which have significantly higher performance and hash-rates.
 
