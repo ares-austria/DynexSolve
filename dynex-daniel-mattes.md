@@ -1,4 +1,4 @@
-# Is Dynex and DynexSolve a scam?
+# How to find reference to Daniel Mattes in the Dynex code?
 
 Dynex is a crypto project that makes fantastical claims. It is healthy to be skeptical in this field. It has been claimed by
 <a href="https://www.youtube.com/watch?v=VecEvumSRts">multiple</a> <a href="https://twitter.com/ScamPatrol12/status/1626088064698441728">sources</a>
@@ -12,8 +12,6 @@ In addition the proprietary code has references to a Linux user whose home direc
 it seems like an unlikely coincidence given the speculation about Mattes' involvement in the project. Is this the smoking gun linkin Daniel and Dynex?
 We invite the Dynex team to explain this and we will correct if we are wrong.
 
-# How to find reference to Daniel Mattes in the Dynex code?
-
 The reference to the Linux user `daniel` is in the official repository of Dynex. In the miner repository there are two closed source binary files.
 They contain the reference to developer Daniel as shown in the hex-dump screenshots at the end of this document. But do not take our word for it.
 Look for yourself with the following steps:
@@ -26,4 +24,4 @@ Look for yourself with the following steps:
 4. Search for "daniel" in the hex dump
 5. Draw your own conclusions
 
-(https://i.imgur.com/V0hb2mt.gif)
+![Daniel Mattes behind DynexSolve](https://i.imgur.com/V0hb2mt.gif)
