@@ -2,6 +2,8 @@
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/search?q=%24DNX&amp;src=ctag&amp;ref_src=twsrc%5Etfw">$DNX</a> Dynex is a SCAM! <br>Short story: Watch the intro movie of Dynex here:<a href="https://t.co/EKFyj2WPkY">https://t.co/EKFyj2WPkY</a> Now watch this intro movie, a simple copy paste of Dynex from Deep Q Ai : <a href="https://t.co/33gYQLoPmz">https://t.co/33gYQLoPmz</a><br>Full context on the Discord group: Dynex behind the scenes: <a href="https://t.co/fY8NGgto8s">https://t.co/fY8NGgto8s</a></p>&mdash; Scam Alert⚠️REPORT SCAM, FRAUD, IMPERSONATORS (@ScamPatrol12) <a href="https://twitter.com/ScamPatrol12/status/1626088064698441728?ref_src=twsrc%5Etfw">February 16, 2023</a></blockquote>
 
+<a href="https://github.com/ares-austria/DynexSolve/blob/main/dynex-daniel-mattes.md">How to find reference to Daniel Mattes in the Dynex code?</a>
+
 ![Dynex Daniel Mattes Blake256](https://i.imgur.com/LYRZYk7.gif)
 
 ![Dynex Daniel Mattes Monero slow-hash](https://i.imgur.com/zUSN0KO.gif)
